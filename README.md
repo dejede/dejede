@@ -24,24 +24,14 @@
 
   <!-- ===================== BADGES ====================== -->
 
-  <p>
-
-    <img
-      src="https://img.shields.io/badge/Profile%20Views-13.37k-blueviolet?style=flat-square"
-      alt="Profile Views"
-    />
-
-    <img
-      src="https://img.shields.io/badge/Followers-1.33k-2CA5E0?style=flat-square&logo=github"
-      alt="GitHub Followers"
-    />
-
-    <img
-      src="https://img.shields.io/badge/Indonesia-🇮🇩-red?style=flat-square"
-      alt="Indonesia"
-    />
-
-  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dejede&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/dejede?label=Followers&style=flat-square&color=2CA5E0&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/🌐_Network_Engineer-00B5E2?style=flat-square" alt="Network Engineer"/>
+  <img src="https://img.shields.io/badge/💻_Developer-7B61FF?style=flat-square" alt="Developer"/>
+  <img src="https://img.shields.io/badge/📡_OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white" alt="OpenWrt"/>
+  <img src="https://img.shields.io/badge/🇮🇩_Indonesia-EF4444?style=flat-square" alt="Indonesia"/>
+</p>
 
 </div>
 

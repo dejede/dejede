@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://wa.me/6285236578999"><img src="https://img.shields.io/badge/DEJEDE_%7C_%2B6285236578999-5C765D?style=flat&logo=whatsapp&logoColor=white&labelColor=3F4F40" alt="Dejede Badge"/></a>
-  <img src="https://komarev.com/ghpvc/?username=dejede&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Views-1k-yellow?style=flat-square&logo=visual-studio-code" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Followers-10k-2CA5E0?style=flat-square&logo=github" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/🌐_Network_Engineer-00B5E2?style=flat-square" alt="Network Engineer"/>
   <img src="https://img.shields.io/badge/💻_Developer-7B61FF?style=flat-square" alt="Developer"/>
@@ -48,49 +48,18 @@ package main
 
 import "fmt"
 
-type Dejede struct {
-	Name      string
-	Location  string
-	Role      string
-	Focus     []string
-	Editor    string
-	Interests []string
-	FunFact   string
-}
-
 func main() {
-
-	me := Dejede{
-		Name:     "Dejede",
-		Location: "Indonesia 🇮🇩",
-
-		Role: "Network Engineer & Developer",
-
-		Focus: []string{
-			"OpenWrt",
-			"Network Engineering",
-			"Web Development",
-			"Automation",
-			"Scripting",
-		},
-
-		Editor: "VS Code",
-
-		Interests: []string{
-			"Networking",
-			"Linux",
-			"Self Hosting",
-			"Embedded Systems",
-			"Photography",
-		},
-
-		FunFact: "Turning coffee and config files into production-ready networks!",
+	me := map[string]any{
+		"Alias":     "Dejede",
+		"Location":  "Indonesia 🇮🇩",
+		"Role":      "Network Engineer & Developer",
+		"Focus":     []string{"OpenWrt", "Networking", "Automation"},
+		"Editor":    "VS Code",
+		"Interests": []string{"Linux", "Self-Hosting", "Photography"},
+		"FunFact":   "Turning coffee and config files into production-ready networks!",
 	}
 
-	fmt.Printf(
-		"Welcome to %s's profile! Let's build something awesome.\n",
-		me.Name,
-	)
+	fmt.Printf("[Matrix] Welcome to %s's node! Let's build something awesome.\n", me["Alias"])
 }
 ```
 
@@ -286,7 +255,8 @@ with something new.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=dejede&label=Views&color=blueviolet&style=flat-square">
+<img src="https://img.shields.io/badge/Views-1k-yellow?style=flat-square&logo=visual-studio-code" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Followers-10k-2CA5E0?style=flat-square&logo=github" alt="GitHub Followers"/>
 
 </div>
 

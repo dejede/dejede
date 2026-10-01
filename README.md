@@ -232,32 +232,16 @@ with something new.
 # 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://t.me/">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
-</a>
-
-<a href="https://github.com/dejede">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/☕_Saweria-FFB000?style=flat-square">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/💖_SocialBuzz-00AEEF?style=flat-square">
-</a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Saweria-FFB000?style=flat-square&logo=ko-fi&logoColor=white" alt="Saweria"/>
+<img src="https://img.shields.io/badge/SocialBuzz-00AEEF?style=flat-square" alt="SocialBuzz"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Views-1k-yellow?style=flat-square&logo=visual-studio-code" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Views-1k-yellow?style=flat-square" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Followers-10k-2CA5E0?style=flat-square&logo=github" alt="GitHub Followers"/>
-
 </div>
 
 ---
